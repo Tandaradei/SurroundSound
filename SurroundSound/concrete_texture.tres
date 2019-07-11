@@ -1,0 +1,6 @@
+[gd_resource type="OpenSimplexNoise" format=2]
+
+[resource]
+period = 9.7
+persistence = 0.848
+lacunarity = 3.21
